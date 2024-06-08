@@ -33,7 +33,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "'Pursue what meaningful (not what is expedient)' - Jordan Peterson"
   - text: "IT Generalist, Cybersecurity Specialist."
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/portrait.jpg"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
