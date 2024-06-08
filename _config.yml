@@ -10,10 +10,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Joel Wisdom"
+title: "{ Joel Wisdom }"
+description: "Blog and website of Joel Wisdom, blogging mainly for tech. Opinions expressed are mine."
+keywords: "wisdom, joel, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -31,8 +31,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "'Pursue what meaningful (not what is expedient)' - Jordan Peterson"
+  - text: "IT Generalist, Cybersecurity Specialist."
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
